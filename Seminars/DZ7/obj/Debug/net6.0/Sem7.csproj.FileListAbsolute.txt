@@ -1,0 +1,15 @@
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.csproj.AssemblyReference.cache
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfoInputs.cache
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfo.cs
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.csproj.CoreCompileInputs.cache
+D:\Git\С#SEM\Seminars\Sem7\bin\Debug\net6.0\Sem7.exe
+D:\Git\С#SEM\Seminars\Sem7\bin\Debug\net6.0\Sem7.deps.json
+D:\Git\С#SEM\Seminars\Sem7\bin\Debug\net6.0\Sem7.runtimeconfig.json
+D:\Git\С#SEM\Seminars\Sem7\bin\Debug\net6.0\Sem7.dll
+D:\Git\С#SEM\Seminars\Sem7\bin\Debug\net6.0\Sem7.pdb
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.dll
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\refint\Sem7.dll
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.pdb
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\Sem7.genruntimeconfig.cache
+D:\Git\С#SEM\Seminars\Sem7\obj\Debug\net6.0\ref\Sem7.dll

@@ -1,0 +1,15 @@
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.csproj.AssemblyReference.cache
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.AssemblyInfoInputs.cache
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.AssemblyInfo.cs
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.csproj.CoreCompileInputs.cache
+D:\Git\С#SEM\Seminars\DZ6\bin\Debug\net6.0\DZ6.exe
+D:\Git\С#SEM\Seminars\DZ6\bin\Debug\net6.0\DZ6.deps.json
+D:\Git\С#SEM\Seminars\DZ6\bin\Debug\net6.0\DZ6.runtimeconfig.json
+D:\Git\С#SEM\Seminars\DZ6\bin\Debug\net6.0\DZ6.dll
+D:\Git\С#SEM\Seminars\DZ6\bin\Debug\net6.0\DZ6.pdb
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.dll
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\refint\DZ6.dll
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.pdb
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\DZ6.genruntimeconfig.cache
+D:\Git\С#SEM\Seminars\DZ6\obj\Debug\net6.0\ref\DZ6.dll

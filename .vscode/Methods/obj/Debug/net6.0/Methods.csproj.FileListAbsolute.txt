@@ -1,0 +1,15 @@
+D:\Git\С#SEM\.vscode\Methods\bin\Debug\net6.0\Methods.exe
+D:\Git\С#SEM\.vscode\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\Git\С#SEM\.vscode\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+D:\Git\С#SEM\.vscode\Methods\bin\Debug\net6.0\Methods.dll
+D:\Git\С#SEM\.vscode\Methods\bin\Debug\net6.0\Methods.pdb
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.dll
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.pdb
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+D:\Git\С#SEM\.vscode\Methods\obj\Debug\net6.0\ref\Methods.dll

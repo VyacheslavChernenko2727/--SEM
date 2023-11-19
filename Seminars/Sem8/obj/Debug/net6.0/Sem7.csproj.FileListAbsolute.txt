@@ -1,0 +1,5 @@
+D:\Git\С#SEM\Seminars\Sem8\obj\Debug\net6.0\Sem7.csproj.AssemblyReference.cache
+D:\Git\С#SEM\Seminars\Sem8\obj\Debug\net6.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\С#SEM\Seminars\Sem8\obj\Debug\net6.0\Sem7.AssemblyInfoInputs.cache
+D:\Git\С#SEM\Seminars\Sem8\obj\Debug\net6.0\Sem7.AssemblyInfo.cs
+D:\Git\С#SEM\Seminars\Sem8\obj\Debug\net6.0\Sem7.csproj.CoreCompileInputs.cache

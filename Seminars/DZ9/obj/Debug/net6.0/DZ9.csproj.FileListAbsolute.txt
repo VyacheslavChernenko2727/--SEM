@@ -1,0 +1,15 @@
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.csproj.AssemblyReference.cache
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfoInputs.cache
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfo.cs
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.csproj.CoreCompileInputs.cache
+D:\Git\С#SEM\Seminars\DZ9\bin\Debug\net6.0\DZ9.exe
+D:\Git\С#SEM\Seminars\DZ9\bin\Debug\net6.0\DZ9.deps.json
+D:\Git\С#SEM\Seminars\DZ9\bin\Debug\net6.0\DZ9.runtimeconfig.json
+D:\Git\С#SEM\Seminars\DZ9\bin\Debug\net6.0\DZ9.dll
+D:\Git\С#SEM\Seminars\DZ9\bin\Debug\net6.0\DZ9.pdb
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.dll
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\refint\DZ9.dll
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.pdb
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\DZ9.genruntimeconfig.cache
+D:\Git\С#SEM\Seminars\DZ9\obj\Debug\net6.0\ref\DZ9.dll
